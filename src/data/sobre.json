@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MGACONCURSOS"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No MGACONCURSOS, temos um compromisso com a educação de qualidade. Nossa missão é fornecer a melhor experiência de aprendizado para aqueles que sonham em passar em concursos públicos."
+  },
+  "content": "Acreditamos que a educação é a chave para um futuro melhor. Nosso site é uma plataforma pensada para apoiar seus estudos, oferecendo um espaço onde você pode tirar suas dúvidas e encontrar o conhecimento necessário para conquistar sua vaga.",
+  "mission": "Proporcionar aos nossos alunos as melhores ferramentas e informações para que realizem seus sonhos através da aprovação em concursos.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}

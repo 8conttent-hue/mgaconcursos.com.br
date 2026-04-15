@@ -1,0 +1,53 @@
+{
+  "name": "MGACONCURSOS",
+  "slug": "mgaconcursos.com.br",
+  "description": "teacher Lugar certo de aprendizagem Aqui é o melhor lugar para você receber notícias, dicas e informações sobres o concurso que tanto deseja passar teacher2 Trabalhando com amor e eficiência Nossa equipe é composta por dezenas de professores que trabalham com paixão para entregar seu vasto conteúdo. teacher3 Mantenha-se sempre atualizado Mantenha-se sempre atualizado com as informações mais relevantes a cerca do concurso que tanto almeja.",
+  "url": "https://mgaconcursos.com.br",
+  "niche": "Educação",
+  "keywords": "teacher Lugar certo de aprendizagem Aqui e o melhor lugar para voce",
+  "email": "contato@mgaconcursos.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-F",
+    "hero": "Hero-F",
+    "features": "Features-I",
+    "about": "About-I",
+    "posts": "Posts-D",
+    "footer": "Footer-D",
+    "sobre": "Sobre-F",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
